@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'color.dart';
-import 'constants.dart';
 
 class ReusableCard extends StatelessWidget {
   ReusableCard({this.cardColor, required this.cardChild, this.onPress});

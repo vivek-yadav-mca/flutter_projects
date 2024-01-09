@@ -3,7 +3,6 @@ import 'constants.dart';
 import 'color.dart';
 import 'reusable_card.dart';
 import 'squarebutton.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 const String resultHeading = 'YOUR RESULT';
 const String bottomButtonTxt = 'Re-Calculate BMI';
