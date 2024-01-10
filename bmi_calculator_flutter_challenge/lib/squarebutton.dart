@@ -17,7 +17,7 @@ class SquareButton extends StatelessWidget {
   final double vertical_margin;
   final double horizontal_margin;
   final double buttonHorizontal;
-  final double buttonVertical;
+  final double buttonVert ical;
   @override
   Widget build(BuildContext context) {
     return Container(
